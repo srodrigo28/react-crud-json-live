@@ -20,4 +20,15 @@
     * npm run api
 * terminal 2 - rodar web
     * npm run rdev
+
+#### Detalhes do projeto
+    * Listar
+    * Inserir
+    * Remover
+    * Alterar
+    * Cadastrar imagem url
     
+    * Efeitos especiais
+        * Mostrar e esconder o botão
+        * Efeito zoom na imagem
+        * Alerte quando vai excluir
