@@ -1,0 +1,18 @@
+{
+  "produto": [
+    {
+      "produto": "Notebook Samsung",
+      "valor": "R$ 2.900,00",
+      "quantidade": "11",
+      "foto": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiB0AVBL-UGraxYoAdyWTIk8BImt9F8HMjXrPuKkYqJrGnOfFUuYmwZfdiY7p_FhglMARqe-XONSqf545AwKBJpOFIop4ZFVHxEaHOkGZnshkZ069OAz5R5B_1Tc-z2_FOMC-A99m5Jw&usqp=CAc",
+      "id": "6232"
+    },
+    {
+      "id": "e9d9",
+      "produto": "TV TCL 55",
+      "valor": "2700",
+      "quantidade": "12",
+      "foto": "https://sp.yimg.com/ib/th?id=OPHS.uShlCiSyYkrBhw474C474&o=5&pid=21.1&w=&h="
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.sumir{
+    display: none;
+}
+img{
+    transition: .7s;
+    cursor: pointer;
+}
+img:hover{
+    width: 200px;
+}
